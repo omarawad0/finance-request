@@ -1,7 +1,8 @@
 import './App.css'
+import FinanceRequestForm from './components/FinanceRequestForm'
 
 function App() {
-  return <h1 className="text-3xl font-bold underline ">Hello world!</h1>
+  return <FinanceRequestForm />
 }
 
 export default App
