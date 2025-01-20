@@ -1,7 +1,8 @@
 import './App.css'
+import FinanceRequestForm from './components/FinanceRequestForm'
 
 function App() {
-  return <></>
+  return <FinanceRequestForm />
 }
 
 export default App
