@@ -1,6 +1,4 @@
-# React Virtualized List
-
-This is a React application demonstrating a virtualized table implementation. The app uses Vite and TypeScript.
+# Finance Request
 
 ## Prerequisites
 
@@ -16,13 +14,13 @@ Follow these steps to set up and run the application locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/omarawad0/react-virtualized-list.git
+git clone https://github.com/omarawad0/finance-request.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd react-virtualized-list
+cd finance-request
 ```
 
 ### 3. Install Dependencies
